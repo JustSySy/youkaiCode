@@ -19,10 +19,6 @@
                       <Icon type="settings"></Icon>
                       <span>设置</span>
                     </MenuItem>
-                    <MenuItem name="Settings">
-                      <Icon type="settings"></Icon>
-                      <span>小甜甜</span>
-                    </MenuItem>
                 </Menu>
             </Sider>
             <Layout>
